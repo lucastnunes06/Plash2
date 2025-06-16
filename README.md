@@ -1,28 +1,23 @@
 # Plash
 
-> Aplicativo iOS desenvolvido em SwiftUI, integrando inteligência artificial com Google Gemini API, arquitetura MVVM e foco em práticas modernas de desenvolvimento mobile.
+> Aplicativo iOS desenvolvido em SwiftUI como projeto final do **HackaTruck Makerspace**, integrando inteligência artificial com Google Gemini API, arquitetura MVVM e práticas modernas de desenvolvimento mobile.
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue?logo=apple)
 ![Xcode](https://img.shields.io/badge/Xcode-15-blue?logo=xcode)
 ![iOS](https://img.shields.io/badge/iOS-17-blue?logo=apple)
 ![AI](https://img.shields.io/badge/Google%20Gemini-API-red?logo=google)
+![HackaTruck](https://img.shields.io/badge/HackaTruck-Makerspace-yellow)
 
 ---
 
 ## 📱 Descrição do projeto
 
-O **Plash** é um aplicativo mobile iOS desenvolvido como projeto final da disciplina **Aplicações para Dispositivos Móveis**.  
-Nele foram aplicados diversos conceitos modernos de desenvolvimento mobile e integração com inteligência artificial generativa.
+O **Plash** é um aplicativo mobile iOS desenvolvido como projeto final do programa **HackaTruck Makerspace** — iniciativa educacional reconhecida nacionalmente que oferece capacitação prática em desenvolvimento mobile, cloud computing e tecnologias emergentes.
 
-Entre suas funcionalidades principais estão:
+O aplicativo tem como objetivo auxiliar no controle hídrico, ajudando os usuários a monitorarem seu consumo de água diário. Com a integração da API Gemini (Google Generative AI), o aplicativo fornece dicas diárias personalizadas de economia de água, promovendo o uso consciente. Além disso, o Plash apresenta gráficos e análises visuais que permitem acompanhar a evolução do consumo ao longo do tempo.
 
-- Monitoramento e exibição de dados interativos em tempo real.
-- Análises e sugestões com uso da API Gemini (Google Generative AI).
-- Histórico de interações com armazenamento local.
-- Interface 100% desenvolvida com SwiftUI.
-- Arquitetura MVVM (Model-View-ViewModel) aplicada.
-- Separação de responsabilidades e código escalável.
+Como melhoria futura, há o planejamento de integração com dispositivos de hardware via Arduino, utilizando sensores de umidade para monitoramento físico de consumo de água em tempo real.
 
 ---
 
@@ -39,13 +34,12 @@ Entre suas funcionalidades principais estão:
 
 ## 🎯 Objetivos de aprendizado
 
-Este projeto foi desenvolvido com o objetivo de:
-
-- Consolidar conhecimentos de desenvolvimento iOS com SwiftUI.
-- Aplicar práticas modernas de arquitetura de software (MVVM).
-- Trabalhar com integração de APIs externas.
-- Desenvolver interface limpa, reativa e responsiva.
-- Aprender gerenciamento de estados e dados em aplicações mobile.
+- Consolidação de práticas modernas de desenvolvimento iOS.
+- Desenvolvimento de aplicações escaláveis utilizando MVVM.
+- Integração com APIs externas de IA.
+- Gerenciamento de dados e persistência.
+- Desenvolvimento de UI responsiva e intuitiva com SwiftUI.
+- Prototipagem de integrações futuras com Arduino e sensores físicos.
 
 ---
 
@@ -60,17 +54,19 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ## 🚀 Como executar o projeto
 
-1. Clone o repositório em sua máquina.
-2. Abra o arquivo `Projeto_Final.xcodeproj` no Xcode.
-3. Execute o projeto em um simulador iOS ou dispositivo físico.
+1. Clone o repositório.
+2. Abra o arquivo `Projeto_Final.xcodeproj` com o Xcode.
+3. Execute em um simulador ou dispositivo físico.
 
-> ⚠️ Necessário possuir o Xcode 15 ou superior instalado.
+> ⚠️ Requer Xcode 15 ou superior.
 
 ---
 
-## 📚 Créditos
+## 📚 Programa HackaTruck
 
-Este projeto foi desenvolvido como parte do curso de **Engenharia de Software - Universidade Católica**, sob orientação na disciplina de Aplicações para Dispositivos Móveis.
+Este projeto foi desenvolvido como parte do programa educacional **HackaTruck Makerspace**, que promove a capacitação de estudantes universitários em tecnologias Apple, desenvolvimento mobile, cloud computing, inteligência artificial e boas práticas de engenharia de software.
+
+Mais informações: [https://hackatruck.com.br/](https://hackatruck.com.br/)
 
 ---
 
